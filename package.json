@@ -1,0 +1,31 @@
+{
+  "name": "notes-cli",
+  "version": "1.0.0",
+  "description": "Note taking cli",
+  "keywords": [
+    "cli"
+  ],
+  "homepage": "https://github.com/mellor17/notes-cli#readme",
+  "bugs": {
+    "url": "https://github.com/mellor17/notes-cli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mellor17/notes-cli.git"
+  },
+  "license": "GPL-3.0",
+  "author": "mellor",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.3",
+    "commander": "^14.0.3",
+    "eslint": "^10.0.2",
+    "eslint-plugin-unicorn": "^63.0.0",
+    "jest": "^30.2.0",
+    "typescript": "^5.9.3"
+  }
+}
