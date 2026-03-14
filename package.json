@@ -1,7 +1,7 @@
 {
-  "name": "notes-cli",
+  "name": "physics-cli",
   "version": "1.0.0",
-  "description": "Note taking cli",
+  "description": "Physics calculation CLI tool",
   "keywords": [
     "cli"
   ],
@@ -28,5 +28,8 @@
     "jest": "^30.2.0",
     "typescript": "^5.9.3",
     "vitest": "^4.1.0"
+  },
+  "dependencies": {
+    "octokit": "^5.0.5"
   }
 }
