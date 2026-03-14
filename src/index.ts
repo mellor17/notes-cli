@@ -1,1 +1,3 @@
-import { RealtimeCallback } from "@base44/sdk";
+export function sum(a: number, b: number) {
+  return a + b;
+}
