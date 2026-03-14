@@ -1,2 +1,2 @@
 node_modules/
-node_modules/@types/node/child_process.d.ts
+.env
